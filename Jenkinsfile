@@ -34,7 +34,7 @@ pipeline {
         )
     }
     environment {
-        APPLICATION_NAME = "user"
+        APPLICATION_NAME = "product"
         POM_VERSION = readMavenPom().getVersion()
         POM_PACKAGING = readMavenPom().getPackaging()
         //version+ packaging
