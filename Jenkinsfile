@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pipeline {
     agent {
         label "k8s-slave"
@@ -282,3 +283,6 @@ def buildApp() {
 // test 6232
 //stage 7232
 //prod 8232
+=======
+
+>>>>>>> 9026347191b9fc97bf29337538722b36d4cfad3a
