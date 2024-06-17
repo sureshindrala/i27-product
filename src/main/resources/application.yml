@@ -34,8 +34,8 @@ spring:
   datasource:
     #    password: **** JAVA_OPTS=-Dspring.profile="test"
     #    url
-    password: Gcp@2023 # 100% ,ciphers ===>  devs will encrypt this usig spring
-    url: jdbc:mysql://35.224.187.49:3306/learnerCrownClothing?useSSL=FALSE
+    password: Indrala@1987 # 100% ,ciphers ===>  devs will encrypt this usig spring
+    url: jdbc:mysql://34.87.94.121:3306/learnerCrownClothing?useSSL=FALSE
     username: root
   jpa:
     hibernate:
@@ -48,5 +48,5 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://34.16.196.228:5761/eureka/
+      defaultZone: http://34.125.140.221:5761/eureka/
 ---
